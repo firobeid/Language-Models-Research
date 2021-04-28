@@ -1,4 +1,5 @@
 # RNN-NLP Applications
+`Keep it simple it comes out elegant`
 - Motivation: Character Level language model ( 2 methods of encoding) to regenerate/reproduce news headlines to learn embeddings and LSTM weights 
               in order to transfer its learning to classification models that aim to predict stock price direction from news headlines.
 - Models, model training notebooks, dbs and certain files are not provided. Only proof of concept from idea formulation and data fetching to deployment and mean of use.
