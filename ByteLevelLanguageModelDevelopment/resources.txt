@@ -1,0 +1,15 @@
+SPARK NLP:
+https://github.com/ryancburke/nlp_disasterTweets/blob/main/glove-elmo-bert-co%20(2).ipynb
+https://github.com/ryancburke/AG_news
+https://www.tensorflow.org/tutorials/text/
+https://www.youtube.com/watch?v=1rOCxV0fSyM
+https://www.youtube.com/watch?v=CKrxdgqBheY
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+https://github.com/leonardoaraujosantos/CharacterLanguageModel/blob/master/train_char_lm.ipynb
+https://github.com/frankcgq105/BERTCHEN/blob/master/run_pretraining.py
+https://github.com/vedic-partap/Event-Driven-Stock-Prediction-using-Deep-Learning
+
+https://docs.python.org/3/howto/unicode.html#encodings
+
+https://www.kaggle.com/code/dschettler8845/uwmgit-deeplabv3-end-to-end-pipeline-tf
+
